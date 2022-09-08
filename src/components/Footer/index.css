@@ -1,0 +1,12 @@
+.footer {
+  background-color: #cbd5e1;
+  padding: 1px;
+  height: 15%;
+  margin-top: 6px;
+}
+
+.footer-heading {
+  color: #64748b;
+  text-align: center;
+  font-family: roboto;
+}
